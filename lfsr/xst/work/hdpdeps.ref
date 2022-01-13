@@ -1,0 +1,19 @@
+V3 13
+FL "C:/Users/HP EliteBook 840 G1/dd-stari/prvi.vhd" 2022/01/13.16:27:06 M.63c
+EN work/lfsr 1642091831 FL "C:/Users/HP EliteBook 840 G1/dd-stari/prvi.vhd" \
+      PB ieee/std_logic_1164 1277201847
+AR work/lfsr/Behavioral 1642091832 \
+      FL "C:/Users/HP EliteBook 840 G1/dd-stari/prvi.vhd" EN work/lfsr 1642091831
+FL "C:/Users/HP EliteBook 840 G1/dd-stari/test.vhd" 2019/09/27.09:26:24 M.63c
+EN work/test 0 FL "C:/Users/HP EliteBook 840 G1/dd-stari/test.vhd" \
+      PB ieee/std_logic_1164 1277201847
+AR work/test/behavior 0 \
+      FL "C:/Users/HP EliteBook 840 G1/dd-stari/test.vhd" EN work/test 0 CP lfsr
+FL "C:/Users/HP EliteBook 840 G1/dd-stari/test1.vhd" 2019/09/23.17:48:17 M.63c
+EN work/test1 0 FL "C:/Users/HP EliteBook 840 G1/dd-stari/test1.vhd" \
+      PB ieee/std_logic_1164 1277201847
+AR work/test1/behavior 0 \
+      FL "C:/Users/HP EliteBook 840 G1/dd-stari/test1.vhd" EN work/test1 0 CP lfsr
+FL "C:/Users/HP EliteBook 840 G1/dd/gaois.vhd" 2019/09/23.18:07:31 M.63c
+FL "C:/Users/HP EliteBook 840 G1/dd/prvi.vhd" 2022/01/13.16:27:06 M.63c
+FL "C:/Users/HP EliteBook 840 G1/dd/test.vhd" 2019/09/22.21:46:31 M.63c
